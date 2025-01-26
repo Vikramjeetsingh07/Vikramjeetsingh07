@@ -57,7 +57,7 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/vikramjeet-singh-raina/](https://www.linkedin.com/in/vikramjeet-singh-raina/)  
-- **Medium:** [medium.com/@vikramjeetsingh](https://medium.com/@vikramjeetsingh)  
+- **Medium:** [medium.com/@vikramjeetsingh](https://medium.com/@vikramjeet0201)  
 - **Email:** vikramjeet0201@gmail.com  
 
 ---

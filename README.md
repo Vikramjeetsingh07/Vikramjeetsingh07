@@ -1,10 +1,19 @@
+
 # Hi there, I'm Vikramjeet Singh! 👋
 
-🌟 **Passionate about AI, Machine Learning, and Big Data**  
+## 🌟 **Passionate about AI, Machine Learning, and Big Data**  
+
 I enjoy exploring cutting-edge technologies and applying them to solve real-world problems. My work focuses on AI-based systems, machine learning applications, and data-driven innovation.
 
----
 
+## 🧑‍💻 A Quick Peek Into Me
+
+- 🔭 **Currently Working On:** AI for intelligent video generation 📹  
+- 🌱 **Currently Learning:** Advanced NLP with Hugging Face 🤖  
+- 💬 **Ask Me About:** Machine Learning, AI, or building cool projects!  
+- ⚡ **Fun Fact:** My profile picture was created by OpenAI's DALL·E model, attempting to draw me at work! 🎨👨‍💻  
+
+---
 ## 🚀 Skills and Expertise
 
 - **Programming Languages:** Python, Java, SQL  
@@ -14,7 +23,6 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 - **Other Tools:** Jupyter Notebook, Git, APIs  
 
 ---
-
 ## 📂 Featured Projects
 
 ### 🔥 [Canada Wildfire Analysis & Prediction](https://github.com/Vikramjeetsingh07/Canada-Wildfire-Analysis-Prediction-)  
@@ -39,7 +47,6 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 *Transformed text into videos with visuals using Diffusers.*  
 
 ---
-
 ## 📝 Medium Articles
 
 - [**Creating a Text-to-Video Converter using Diffusers: Transforming Words into Motion**](https://medium.com/@vikramjeet0201/creating-a-text-to-video-converter-using-diffusers-transforming-words-into-motion-1599626b0c90)  

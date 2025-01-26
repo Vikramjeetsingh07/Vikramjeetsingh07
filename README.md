@@ -17,7 +17,7 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 
 ## 📂 Featured Projects
 
-### 🔥 [Canada Wildfire Analysis & Prediction](https://github.com/Vikramjeetsingh07/Canada-Wildfire-Analysis-Prediction)  
+### 🔥 [Canada Wildfire Analysis & Prediction](https://github.com/Vikramjeetsingh07/Canada-Wildfire-Analysis-Prediction-)  
 *Analyzing and predicting wildfire trends in Canada using advanced ML techniques.*  
 
 ### 🎥 [Movie Recommendation System](https://github.com/Vikramjeetsingh07/Movie-Recomendation-system-using-KNN-Autoencoders-NCF-transformers)  
@@ -42,13 +42,13 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 
 ## 📝 Medium Articles
 
-- [**Creating a Text-to-Video Converter using Diffusers: Transforming Words into Motion**](https://medium.com/@vikramjeetsingh/creating-a-text-to-video-converter-using-diffusers-transforming-words-into-motion)  
+- [**Creating a Text-to-Video Converter using Diffusers: Transforming Words into Motion**](https://medium.com/@vikramjeet0201/creating-a-text-to-video-converter-using-diffusers-transforming-words-into-motion-1599626b0c90)  
   Published on Aug 6, 2023 · *2 min read*  
 
-- [**Bilingual Chatbot using Langchain + OpenAI + Streamlit**](https://medium.com/@vikramjeetsingh/bilingual-chatbot-using-langchain-openai-streamlit)  
+- [**Bilingual Chatbot using Langchain + OpenAI + Streamlit**](https://medium.com/@vikramjeet0201/bilingual-chatbot-using-langchain-openai-streamlit-b8d143b3c5df)  
   Published on Jul 9, 2023 · *4 min read*  
 
-- [**Talk to your PDFs like a Friend with the Conversation Memory Buffer in Langchain**](https://medium.com/@vikramjeetsingh/talk-to-your-pdfs-like-a-friend-with-the-conversation-memory-buffer-in-langchain)  
+- [**Talk to your PDFs like a Friend with the Conversation Memory Buffer in Langchain**](https://medium.com/@vikramjeet0201/talk-to-your-pdfs-like-a-friend-with-the-conversation-memory-buffer-in-langchain-f44e00da59b0)  
   Published on Jul 2, 2023 · *3 min read*  
 
 ---

@@ -1,5 +1,6 @@
 
 # Hi there, I'm Vikramjeet Singh! 👋
+#### ⚡**Fun Fact:** My profile picture was created by OpenAI's DALL·E model, attempting to draw me at work! 🎨👨‍💻
 
 ## 🌟 **Passionate about AI, Machine Learning, and Big Data**  
 
@@ -10,9 +11,8 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 
 - 🔭 **Currently Working On:** AI for intelligent video generation 📹  
 - 🌱 **Currently Learning:** Advanced NLP with Hugging Face 🤖  
-- 💬 **Ask Me About:** Machine Learning, AI, or building cool projects!  
-- ⚡ **Fun Fact:** My profile picture was created by OpenAI's DALL·E model, attempting to draw me at work! 🎨👨‍💻  
-
+- 💬 **Ask Me About:** Machine Learning, AI, or building cool projects!
+  
 ---
 ## 🚀 Skills and Expertise
 

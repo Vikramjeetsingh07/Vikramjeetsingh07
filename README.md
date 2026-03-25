@@ -50,7 +50,7 @@ Built a production RAG system using FastAPI, ChromaDB, and HuggingFace sentence-
 
 ---
 ## 📝 Medium Articles
-- [**Build a Multiagent Task Runner in Python from Scratch (No Frameworks Required)**] (https://medium.com/@vikramjeet0201/build-a-multiagent-task-runner-in-python-from-scratch-no-frameworks-required-1bfbe8a8e1fe) Published on Mar 8, 2026
+- [**Build a Multiagent Task Runner in Python from Scratch (No Frameworks Required)**](https://medium.com/@vikramjeet0201/build-a-multiagent-task-runner-in-python-from-scratch-no-frameworks-required-1bfbe8a8e1fe) Published on Mar 8, 2026
 
 - [**Creating a Text-to-Video Converter using Diffusers: Transforming Words into Motion**](https://medium.com/@vikramjeet0201/creating-a-text-to-video-converter-using-diffusers-transforming-words-into-motion-1599626b0c90)  
   Published on Aug 6, 2023 · *2 min read*  

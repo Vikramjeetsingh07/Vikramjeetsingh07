@@ -24,7 +24,7 @@ I enjoy exploring cutting-edge technologies and applying them to solve real-worl
 
 ---
 ## 📂 Featured Projects
-### 🤖 [GRAPH-RAG-FINANCE](https://github.com/Vikramjeetsingh07/GRAPH-RAG-FINANCE) 
+### 🤖 [GRAPH RAG FINANCE](https://github.com/Vikramjeetsingh07/GRAPH-RAG-FINANCE) 
 Knowledge Graph Enhanced Retrieval-Augmented Generation for Finance Data.(in-progress)
 
 ### 🤖  [RAG wiki Chatbot](https://github.com/Vikramjeetsingh07/RAG-wiki-Chatbot)

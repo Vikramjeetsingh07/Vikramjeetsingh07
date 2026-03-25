@@ -70,7 +70,6 @@ Built a production RAG system using FastAPI, ChromaDB, and HuggingFace sentence-
 
 - **LinkedIn:** [linkedin.com/in/vikramjeet-singh-raina/](https://www.linkedin.com/in/vikramjeet-singh-raina/)  
 - **Medium:** [medium.com/@vikramjeetsingh](https://medium.com/@vikramjeet0201)  
-- **Email:** vikramjeet0201@gmail.com  
 
 ---
 
